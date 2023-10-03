@@ -1,1 +1,1 @@
-var a: any = []
+var a: any = [];
